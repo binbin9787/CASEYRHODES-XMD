@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "TmpCGSSa#rnOZpPu9tqwgaIr9UwRpLaw4gBfzyMwm
 // add your Session Id 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
-BOT_NAME: process.env.BOT_NAME || "✦ CASEYRHODES ✦ XMD ✦",
+BOT_NAME: process.env.BOT_NAME || "✦ AISH ✦",
 // add bot namw here for menu
 CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react    
@@ -21,7 +21,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "923187104038",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "✦ SHAN ✦",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ✦ CASEYRHODES ✦ XMD ✦*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ✦AISH✦*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.imgur.com/PEZ5QL2.jpeg",
 // add img for alive msg
@@ -37,7 +37,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status
-AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Thanks 🤍🔥*",
+AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀🤍🔥*",
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
